@@ -1,3 +1,16 @@
+# Hello Folks 👋, I'm Akshat Khandelwal
+**Final-year Computer Science student | AI & Data Science | Machine Learning & GenAI Enthusiast**
+
+Email me 👉 ✉️ **akshatkhandelwal004@gmail.com** for collaboration, projects, or discussions.
+
+- 🔭 **I’m currently working on:** AI-powered applications using LLMs, RAG pipelines, and data analytics
+- 🌱 **I’m currently learning:** Advanced Machine Learning, Generative AI, FastAPI, and scalable AI systems
+- 👯 **I’m looking to collaborate on:** AI/ML projects, GenAI tools, data-driven products, and open-source work
+- 💬 **Ask me about:** Python, Machine Learning, LangChain, RAG, Power BI, and project building
+- 📫 **How to reach me:** akshatkhandelwal004@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** Engineer by skill, extrovert by nature 😄
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat_it_is)
